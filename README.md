@@ -21,7 +21,7 @@
 | 6 | 十地 | Ten Grounds | [`ten-grounds/`](./ten-grounds/) | 🔲 Forthcoming |
 | 7 | 等覺妙覺 | Equal & Sublime Awakening | [`equal-sublime-awakening/`](./equal-sublime-awakening/) | 🔲 Forthcoming |
 
-> **狀態說明**:此系列為長期規劃軸,尚未開筆。各階位的「部 / 篇」細目由作者依義理逐步開展;本 README 僅釘定**已定案的階位順序與命名**(2026-06-04)。每階位的公開真實狀態以其目錄 README 為準。
+> **狀態說明**:各階位的「部 / 篇」細目由作者依義理逐步開展、隨寫隨開;本 README 釘定**已定案的階位順序與命名**(2026-06-04)。每階位的真實進度以其目錄 README 為準。
 
 ### 與其他三軸的接縫 / Seams with the other axes
 
