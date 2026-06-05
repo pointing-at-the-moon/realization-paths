@@ -1,0 +1,48 @@
+.DS_Store
+*.swp
+*.swo
+*~
+.obsidian/
+.claude/
+
+# Internal working files (not for public repo)
+tasks/
+research/
+scripts/
+sessions/
+
+# Series-level planning (local only)
+CLAUDE.md
+PROJECT_MASTER_PLAN.md
+/BOOK_BUILD_PLAN.md
+PASSDOWN_TEMPLATE.md
+
+# Directive / working-flow files at repo root (local only — never public)
+*_directive.md
+*_DIRECTIVE.md
+MASTER_PLAN_*.md
+*_NEXT.md
+
+# Series-level style guide (local only)
+PAPER_STYLE.md
+PAPER_CANONICAL_CARD.md
+
+# Division-level planning and audit briefs (local only)
+*/*_PLAN.md
+*/*_AUDIT_BRIEF.md
+*/*_REMEDIATION_BRIEF*.md
+*/*_OUTLINE*.md
+*/*_PHASE_*.md
+
+# Division-level draft/RAG files (local only)
+*/papers/*/rag/
+*/papers/*_draft*.md
+*/papers/*_ideas.md
+*/papers/*/*_drafts/
+
+# Book build outputs
+*/book/build/output/
+
+# Book-phase working artifacts (local only)
+*_BOOK_SPINE.md
+*/book/*_PLAN.md
