@@ -16,23 +16,23 @@
 ### Published Papers
 
 **Part 1 · The Measure(度量)**
-- **P01** 斷結量果 / *Measuring Fruit by Subtraction*
-- **P02** 向果相扣 / *The Hinge of Approach and Fruit*
+- **P01** [斷結量果](./papers/part1_the-measure/P01_斷結量果.md) / [*Measuring Fruit by Subtraction*](./papers/part1_the-measure/P01_measuring-fruit-by-subtraction.md)
+- **P02** [向果相扣](./papers/part1_the-measure/P02_向果相扣.md) / [*The Hinge of Approach and Fruit*](./papers/part1_the-measure/P02_the-hinge-of-approach-and-fruit.md)
 
 **Part 2 · Srotaāpanna(須陀洹 預流)**
-- **P03** 入流 / *Entering the Stream*
-- **P04** 不退與七返 / *Irreversibility and the Seven Returns*
+- **P03** [入流](./papers/part2_srotaapanna/P03_入流.md) / [*Entering the Stream*](./papers/part2_srotaapanna/P03_entering-the-stream.md)
+- **P04** [不退與七返](./papers/part2_srotaapanna/P04_不退與七返.md) / [*Irreversibility and the Seven Returns*](./papers/part2_srotaapanna/P04_irreversibility-and-the-seven-returns.md)
 
 **Part 3 · Sakadāgāmin(斯陀含 一來)**
-- **P05** 薄之為斷 / *Thinning as Severance*
+- **P05** [薄之為斷](./papers/part3_sakadagamin/P05_薄之為斷.md) / [*Thinning as Severance*](./papers/part3_sakadagamin/P05_thinning-as-severance.md)
 
 **Part 4 · Anāgāmin(阿那含 不還)**
-- **P06** 五下分結盡 / *The Five Lower Fetters Exhausted*
-- **P07** 淨居與五種般涅槃 / *The Pure Abodes and the Five Courses of Final Nibbāna*
+- **P06** [五下分結盡](./papers/part4_anagamin/P06_五下分結盡.md) / [*The Five Lower Fetters Exhausted*](./papers/part4_anagamin/P06_the-five-lower-fetters-exhausted.md)
+- **P07** [淨居與五種般涅槃](./papers/part4_anagamin/P07_淨居與五種般涅槃.md) / [*The Pure Abodes and the Five Courses of Final Nibbāna*](./papers/part4_anagamin/P07_the-pure-abodes-and-the-five-courses.md)
 
 **Part 5 · Arahant(阿羅漢果·向)**
-- **P08** 五上分結盡 / *The Five Higher Fetters Exhausted*
-- **P09** 漏盡之向 / *The Approach to the Exhaustion of Taints* — ★ **seam paper**, co-read with 證軸 `arhat` P01 at the same 漏盡 instant.
+- **P08** [五上分結盡](./papers/part5_arahant/P08_五上分結盡.md) / [*The Five Higher Fetters Exhausted*](./papers/part5_arahant/P08_the-five-higher-fetters-exhausted.md)
+- **P09** [漏盡之向](./papers/part5_arahant/P09_漏盡之向.md) / [*The Approach to the Exhaustion of Taints*](./papers/part5_arahant/P09_the-approach-to-the-exhaustion-of-taints.md) — ★ **seam paper**, co-read with 證軸 `arhat` P01 at the same 漏盡 instant.
 
 ---
 
