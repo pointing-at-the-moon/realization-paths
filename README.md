@@ -9,19 +9,15 @@
 
 從聲聞的**四沙門果**起步,接菩薩的**五十二位**(十信、十住、十行、十迴向、十地),終於**等覺、妙覺**。聲聞道與菩薩道在此並列上升:同自下而上,śrāvaka → bodhisattva → Buddha。
 
-### 階位序列 / The Stations (canonical order)
+### 分區序列 / The Divisions (canonical order)
 
-| # | 階位 | Division | 目錄 | 狀態 |
+| # | 分區 | Division | 目錄 | 狀態 |
 |---|------|----------|------|------|
-| 1 | 四沙門果 | Four Śrāmaṇa Fruitions | [`four-fruitions/`](./four-fruitions/) | 🔲 Forthcoming |
-| 2 | 十信 | Ten Faiths | [`ten-faiths/`](./ten-faiths/) | 🔲 Forthcoming |
-| 3 | 十住 | Ten Abidings | [`ten-abidings/`](./ten-abidings/) | 🔲 Forthcoming |
-| 4 | 十行 | Ten Practices | [`ten-practices/`](./ten-practices/) | 🔲 Forthcoming |
-| 5 | 十迴向 | Ten Dedications | [`ten-dedications/`](./ten-dedications/) | 🔲 Forthcoming |
-| 6 | 十地 | Ten Grounds | [`ten-grounds/`](./ten-grounds/) | 🔲 Forthcoming |
-| 7 | 等覺妙覺 | Equal & Sublime Awakening | [`equal-sublime-awakening/`](./equal-sublime-awakening/) | 🔲 Forthcoming |
+| 1 | 四沙門果 | Four Śrāmaṇa Fruitions | [`sramana/`](./sramana/) | ✅ Complete (P01–P09) |
+| 2 | 佛菩提道（十信→十地） | The Bodhi Path | [`bodhi-path/`](./bodhi-path/) | ✅ Complete (P01–P10) |
+| 3 | 等覺妙覺 | Equal & Sublime Awakening | [`sambodhi/`](./sambodhi/) | ✅ Complete (P01–P03) |
 
-> **狀態說明**:各階位的「部 / 篇」細目由作者依義理逐步開展、隨寫隨開;本 README 釘定**已定案的階位順序與命名**(2026-06-04)。每階位的真實進度以其目錄 README 為準。
+> **狀態說明**:本 README 釘定**已定案的分區順序與命名**(2026-06-04 定七階位、2026-06-05 整併為三分區:五十二位之十信至十地併入《佛菩提道》)。每分區的真實進度以其目錄 README 為準。
 
 ### 與其他三軸的接縫 / Seams with the other axes
 

@@ -7,15 +7,29 @@
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🔲 **Forthcoming** — 尚未開筆。分區命名與軸內順序已定案(2026-06-05);部 / 篇結構與義理綱要由作者開展。
-
-### Planned Structure
-
-*待作者開展 — to be authored.* 五十位以五「部」開展:`part1_sraddha`(十信)・`part2_sthana`(十住)・`part3_carya`(十行)・`part4_parinamana`(十迴向)・`part5_bhumi`(十地)。等覺妙覺另立第 3 分區《等覺妙覺》(`sambodhi`)。
+- **Status**: ✅ **Complete** — P01–P10 全十篇成稿（五部），bilingual（中文 / English）。本分區為行軸第 2 分區（菩薩五十位因位歷程）。
 
 ### Published Papers
 
-*None yet.* 首篇發表後,比照姊妹系列以「Part → P{NN} 中文 / English」雙語列出。
+**Part 1 — 十信 · Śraddhā**
+- **P01** [菩薩道不從阿羅漢果接續](./papers/part1_sraddha/P01_菩薩道不從阿羅漢果接續.md) / [Not a Continuation of Arhatship](./papers/part1_sraddha/P01_not-a-continuation-of-arhatship.md)
+- **P02** [十信的不定性](./papers/part1_sraddha/P02_十信的不定性.md) / [The Instability of the Ten Faiths](./papers/part1_sraddha/P02_the-instability-of-the-ten-faiths.md)
+
+**Part 2 — 十住 · Sthāna**
+- **P03** [入住](./papers/part2_sthana/P03_入住.md) / [Entering the Abodes](./papers/part2_sthana/P03_entering-the-abodes.md)
+- **P04** [十住至灌頂住](./papers/part2_sthana/P04_十住至灌頂住.md) / [The Ten Abodes to the Consecration](./papers/part2_sthana/P04_the-ten-abodes-to-the-consecration.md)
+
+**Part 3 — 十行 · Caryā**
+- **P05** [行位](./papers/part3_carya/P05_行位.md) / [The Practice Position](./papers/part3_carya/P05_the-practice-position.md)
+
+**Part 4 — 十迴向 · Pariṇāmanā**
+- **P06** [迴向](./papers/part4_parinamana/P06_迴向.md) / [Dedication](./papers/part4_parinamana/P06_dedication.md)
+
+**Part 5 — 十地 · Bhūmi**
+- **P07** [初地見道](./papers/part5_bhumi/P07_初地見道.md) / [The First Ground and the Path of Seeing](./papers/part5_bhumi/P07_the-first-ground-and-the-path-of-seeing.md)
+- **P08** [二至七地](./papers/part5_bhumi/P08_二至七地.md) / [The Second to Seventh Grounds](./papers/part5_bhumi/P08_the-second-to-seventh-grounds.md)
+- **P09** [八地不動](./papers/part5_bhumi/P09_八地不動.md) / [The Eighth Immovable Ground](./papers/part5_bhumi/P09_the-eighth-immovable-ground.md)
+- **P10** [九地十地](./papers/part5_bhumi/P10_九地十地.md) / [The Ninth and Tenth Grounds](./papers/part5_bhumi/P10_the-ninth-and-tenth-grounds.md)
 
 ---
 
