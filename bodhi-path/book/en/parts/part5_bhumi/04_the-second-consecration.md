@@ -1,0 +1,45 @@
+## 5.4 The Second Consecration
+
+After the eighth ground's spontaneity and mindfulness-non-regress, two grounds remain. What are they for?
+
+Answer: the self-realization is steady; two things are left to ripen—the **function** of benefiting others, and the **substance** of wisdom. The eighth ground's accomplishments lean toward self-realization: the forbearance of non-arising, the spontaneity, the non-regress, all marks of the bodhisattva's own attainment grown firm. But the bodhisattva path has its vow in benefiting others and its summit in consummate wisdom; the last two grounds are the closing ripening—"the realization steady, now broaden the function and round the substance."
+
+First the ninth, the **Ground of Good Wisdom**. Vasubandhu's gloss: "By the unobstructed power of teaching, accomplishing the practice of benefiting others—hence the Ground of Good Wisdom." Among the ten perfections, here "the perfection of power is preeminent." The eighth ground's self-realization being firm, the ninth issues in **unobstructed teaching**—exposition without hindrance, benefit without strain. This is the ripening of the function: the strength of realization, now turned wholly to the gift of the Dharma, reaching beings without obstruction.
+
+Then the tenth, the **Dharma-Cloud Ground**. Vasubandhu: "Attaining the great dharma-body, mastery complete—hence the Dharma-Cloud Ground." Here "the perfection of wisdom is preeminent"—the ten grounds matched to the ten perfections, giving preeminent at the first (Part Three touched it), power at the ninth, wisdom at the tenth: the matching here complete. And the name "Dharma-Cloud" rewards a long look: the great dharma-body like a cloud, covering all and moistening all—the substance of wisdom rounded, it spreads as a vast cloud spreads over the sky, raining the Dharma upon all that grows. This is the ripening of the substance.
+
+A comparison: the scholar become a teacher. One studies first until the learning is thorough and clear of itself (the eighth ground's spontaneous self-realization); the learning thorough, one can expound without obstruction, answering every difficulty (the ninth ground's unobstructed teaching); and at last the learning grows so deep it makes a school of its own, falling like seasonal rain, blessing all it touches (the tenth ground's dharma-body like a covering cloud). Self-mastered; able to teach; the rain reaching everyone—the eighth, ninth, and tenth grounds walk exactly this order: realization, function, substance.
+
+### The Buddhas' Water of Wisdom, Poured on the Crown
+
+The tenth ground's high moment is a consecration. The chapter records the Dharma-Cloud bodhisattva entering "the position of conferred office," and gives the simile entire:
+
+> Sons of the Buddha! It is as when the crown prince born to a wheel-turning sage-king ... the king takes the water of the four great oceans, sets it in a golden vase, and holding this vase pours it upon the prince's crown—at that moment he is named: invested with the kingly office, fallen within the number of the consecrated kṣatriya kings. ... The bodhisattva's investiture is just so: because the buddhas' water of wisdom is poured upon his crown, he is named: invested with office; because he fulfills the ten powers of the Tathāgata, he falls within the number of the buddhas.
+
+The wheel-turning king installs his heir: water of the four great oceans in a golden vase, poured by the king's own hand upon the prince's crown—and with that pouring the prince is "invested with the kingly office, fallen within the number of the consecrated kṣatriya kings." The bodhisattva's investiture is the same rite with the water changed: **the buddhas' water of wisdom** upon his crown—hence "invested"; "fulfilling the ten powers of the Tathāgata, he falls within the number of the buddhas."
+
+Reading this, recall two things from earlier in the volume. First: this is the volume's **second consecration**. The first stood at the end of the Ten Abodes—the Abode of Consecration, the graduation rite of the Buddha-family upbringing, conferring the office of "fit to do the Dharma-King's work," at the head of the three worthy ranks. The second stands at the end of the Ten Grounds—the Dharma-Cloud investiture, a full thirty-odd stations above the first: that one anointed the family's son come of age; this one anoints the one *about to be Buddha*. One image of consecration, sounded once at each end of the fifty stations, the second carrying the first to its utmost. Second: recall the buddhas' exhortation at the eighth ground—"the ten powers, the fearlessnesses, the eighteen distinctive dharmas, **you have not yet attained**." From the eighth ground's "not yet" to the tenth's "fulfilling the ten powers, fallen within the number of the buddhas"—the road of the eighth, ninth, and tenth grounds toward the Buddha runs its whole length between those two sentences.
+
+### In the Number of the Buddhas—Not Yet Buddha
+
+Then: fallen within the number of the buddhas—is that buddhahood?
+
+It is not. This is the volume's last boundary, and Vasubandhu draws it without mercy:
+
+> Thus receiving the position of the Dharma-King, he is as the crown prince who has gained mastery among all the king's sons; yet here there is a subtle obstacle of cognition, and therefore no full mastery; to counteract this obstacle, the buddha-ground is spoken of separately.
+
+Read it in layers. "Receiving the position of the Dharma-King, as the crown prince among all the king's sons"—the tenth ground stands as the heir among heirs: invested, masterful, beside the throne. "Yet here there is a **subtle obstacle of cognition**, and therefore no full mastery"—one last, most subtle veil upon knowing remains, and so the mastery is not yet final. "To counteract this obstacle, the buddha-ground is spoken of **separately**"—for the severing of that one last veil, the buddha-ground is set apart as its own teaching. Between the tenth ground and the buddha-ground stands exactly this: one subtle obstacle of cognition.
+
+The simile finishes the sentence by itself: the consecrated prince bears the king's water and stands within the number of kings—but an invested heir is not yet the king enthroned. "Fallen within the number of the buddhas" is as "fallen within the number of the kṣatriya kings": entered in the register, not seated on the throne. Or again: the climber has reached where the summit stands in plain view (within the number), the gear all carried (the ten powers fulfilled)—and one last pitch remains unclimbed (the subtle obstacle unsevered). Near and not yet there; furnished and not yet final—that is the tenth ground: the highest point of the causal stage, at the door of the buddha-ground.
+
+(Between the tenth ground and the buddha-ground the later classifiers set two further names—equal awakening, sublime awakening. What happens on that doorstep, this series keeps for a volume of its own; it is not unfolded here.)
+
+### The Fifty Stations, Walked
+
+And here the volume's road ends. Look back once down the whole of it.
+
+A gate: the bodhisattva path opens at the arousing of bodhicitta, not on the rooftop of arhatship—entered in one thought, waiting on no prior stage. A tidal zone: the Ten Faiths, outer-ordinary, advancing and regressing, faith a feel and not a license. An entering: what lay underfoot exchanged, position-non-regress begun, the son of the Buddha made solid. A growing: ten halls of the Buddha's house, from the Abode of Arousing the Mind to the first consecration. A going out: the six perfections from menu to table, benefit waiting on no completed cultivation, prajñā leading. An operation: the good amassed handed over entire, dedicated to three places, no self-fruit to retreat into, practice-non-regress standing. A cut: the first ground's path of seeing, worthy into noble, suppression become severance. A grinding: the second through seventh grounds, the innate afflictions thinned finer and finer, the seventh passing the place where the two vehicles stop. A letting-go: the eighth ground casting off application into spontaneity, mindfulness-non-regress, the three non-regresses complete. And at the last, the second consecration: the buddhas' water of wisdom on the crown, the ten powers fulfilled, fallen within the number of the buddhas—with one subtle obstacle remaining, and the buddha-ground spoken of separately.
+
+From one thought of faith to the number of the buddhas, across three incalculable eons, the measure never changed hands: not how much was severed, not what states were dwelt in, but—what mind was aroused, what provisions amassed, for whose sake the realization within reach was left untaken. That ruler of accumulation, and the previous volume's ruler of subtraction, are two rulers for two roads; with the two volumes closed, both rails of the realization axis have been walked.
+
+And the place where this volume halts is a doorstep. Above the subtle obstacle, within the buddha-ground—equal awakening, sublime awakening, the last two stations—belongs to another volume. The road hands on its baton at the door.

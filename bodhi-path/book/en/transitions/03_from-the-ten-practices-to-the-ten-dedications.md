@@ -1,0 +1,17 @@
+# Transition Three · From the Ten Practices to the Ten Dedications
+
+Part Three is finished. Two more things are in hand.
+
+A turn: the practice-position changed the main curriculum from "I" to beings. The first six practices are the six perfections in motion—the giving, the pure precepts, the patience, the vigour, the right mindfulness, even the abiding in non-attainment—and the arrow of every one bears the same inscription: only to benefit all beings. The six perfections passed from names on a menu to dishes on the table; benefit waits on no completed cultivation, for the enactment is itself the benefit.
+
+An eye: the five perfections without prajñā are like the blind; only with prajñā leading are they said to have eyes, and only then do they earn the name "gone to the far shore." Merit must be led by wisdom; illuminate the doing of good with non-attainment, and a worldly kindness rises into a perfection.
+
+But the more intensively one practices, the harder a new question presses: where is the accumulated good to go?
+
+It is no idle question. Good deeds ripen into good fruits—that is the ordinary law of cause and effect; and fruits are what detain people. Giving amasses merit; merit ripened brings the pleasant rewards of gods and men—the better the practice, the more secure the "good life" of the next leg. Yet the aim of the bodhisattva path was fixed in Part One: non-abiding. If even nirvāṇa, long due, is not taken, what of the comforts of gods and men? So the practice-stage forces, hard on its heels, one further operation: the amassed good must be **redirected**—not allowed to settle as one's own enjoyment, but transferred out in bulk. The canon's name for this operation is "dedication" (迴向): *hui*, to turn about; *xiang*, to face toward—the destination of one's roots of good, re-addressed from the default "to myself" to another consignee altogether.
+
+Addressed to whom? The third stretch of the worthy ranks, the Ten Dedications, names three consignees: dedicated to beings, dedicated to awakening, dedicated to the real. Good made over to beings—the direction of benefit; good made over to awakening—the direction of buddhahood; good made over to the real—the direction of emptiness-wisdom. How three consignees can stand at once is exactly what Part Four must take apart. And glance, before entering, at the first dedication's name—it reads almost as a riddle: "the dedication of rescuing all beings **while free of the mark of beings**." To rescue all beings, yet apart from the mark of beings—to save everyone, while seeing no one to be saved? That apparently self-contradicting name joins the eye of "non-attainment" from the end of Part Three to the work of dedication: give the good over to beings, and take no hold of the mark of beings. Prajñā's eye looks straight through from the practice-position into the dedications.
+
+One more thread to carry along. The second of the three non-regresses—practice-non-regress—the classifiers set in the region of the dedication-position. Position-non-regress locked the standing; what does practice-non-regress lock? How far must the practice of benefit go before it can no longer slide back into practice for oneself alone? The Ten Dedications are the last stretch of the three worthy ranks; walk them through, and ahead stand the Ten Grounds—the border of the worthy and the noble. Dedication is the worthies' closing act.
+
+The good is in hand. Now go and learn how to hand it over.

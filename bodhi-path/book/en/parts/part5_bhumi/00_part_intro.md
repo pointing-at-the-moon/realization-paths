@@ -1,0 +1,9 @@
+# Part Five · The Ten Grounds · The Worthy and the Noble
+
+The longest part of the book, walking the highest ten stations of the way—the Ten Grounds, which the scriptures call the "ten noble ones."
+
+Between worthy and noble stands the difference of one word. The worthy ranks suppress the afflictions, as a stone laid on grass: the root remains. The noble ranks sever them, as fire through a seed: it never sprouts again. Thirty stations of the three worthy ranks pass, and not one affliction has been severed; on the threshold of the first ground, the knife falls for the first time. And readers of the previous volume know this knife well—the whole śrāvaka road was the subtraction of severing. The same knife returns; the ledger is another: the śrāvaka severs to the end, sheathes the blade, and leaves; the bodhisattva severs without taking realization, and carries the knife on toward buddhahood.
+
+Part Five has four chapters, four stretches. Chapter one, the first ground, the Ground of Joy: the first cut—the path of seeing, the worthy entering the noble, the bodhisattva's first true severing of an affliction's root in all beginningless time. Chapter two, the second through seventh grounds: finer and finer—the discriminated afflictions cut in one stroke, the inborn habits remaining, six grounds grinding them thin. Chapter three, the eighth, the Immovable Ground: the effort falls away—the forbearance of non-arising, application cast off for spontaneity, the ten masteries, and the last of the three non-regresses in hand. Chapter four, the ninth and tenth grounds: the second consecration—the unobstructed teaching of the Ground of Good Wisdom, and the Dharma-Cloud's investiture into the number of the buddhas; to the summit of the causal stage, and to the end of this volume.
+
+The knife is in hand. Enter the grounds.

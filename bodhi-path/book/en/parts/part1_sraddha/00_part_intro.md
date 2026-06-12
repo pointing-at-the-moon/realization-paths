@@ -1,0 +1,9 @@
+# Part One · The Ten Faiths · First, Find the Right Gate
+
+This book walks the fifty stations of the bodhisattva path: the Ten Faiths, the Ten Abodes, the Ten Practices, the Ten Dedications, and the Ten Grounds—from the first thought of faith to the consecration of the Dharma-Cloud Ground, stopping at the threshold of equal and sublime awakening. The road is immensely long; the scriptures say three great incalculable eons. And before setting out, one thing must be settled first: finding the right gate to this road.
+
+A widely circulated picture paints the road to buddhahood as a single long ladder: first complete the śrāvaka's four fruits, become an arahant, and then "turn from the lesser to the greater" and join the bodhisattva path. In that picture, the gate of the bodhisattva path opens on the rooftop of arhatship. But that is not where the canon sets the gate. The gate of the bodhisattva path opens at the single thought of arousing bodhicitta—the arising itself is the entry, with no regard to whether any of the four fruits has been attained.
+
+The two chapters of Part One settle exactly this. Chapter one finds the right gate: it watches how the Yogācārabhūmi, the Mahāprajñāpāramitā-śāstra, and the Avataṃsaka-sūtra tie "entering the Great Vehicle" cleanly to the arising of the mind, and makes clear why the bodhisattva path is not a second story built on top of arhatship, but another road that forks off from the arising itself. Chapter two looks at the first stretch inside the gate: the Ten Faiths. Though the gate is entered in a single thought, this first stretch within is the least stable of the entire way—faith can still fall back. Keep "entering" and "standing firm" distinct, and the remaining forty stations will not be misjudged.
+
+Find the gate first, and the road can begin. We start with chapter one.
