@@ -6,19 +6,19 @@ The first: no falling to the lower destinies. The second: at most seven returns 
 
 This chapter sets the matter straight: they are not certificates. No-falling and the seven returns are not favors promised to the stream-enterer; they are corollaries of severance itself. Where does the difference lie? A certificate's force hangs on the one who issues it; a corollary's force grows out of the structure of the thing itself. Read the two sentences as certificates, and the fruit is handed back to an external power. Read them as corollaries, and certainty is a property of the stream-enterer's own person—which no one can grant, and no one can take.
 
-### No Falling: Not Armor Added, but a Hook Removed
+### The Sunrise at the Deer Park
 
 Take "no falling" first. It is most easily imagined as a positive protection—as if, upon entering the stream, a layer of anti-fall armor were fitted on.
 
-The sutta's wording refuses exactly this picture. The Saṃyukta-āgama says of the stream-enterer:
+The sutta's wording refuses exactly this picture. The sitting whose half-sentence closed the last chapter must here be read whole, and in its place. The place is the seers' resort at the Deer Park near Bārāṇasī—where the World-Honored One first turned the wheel; the run of discourses there speaks all of the four noble truths. In one of them, He begins with the rising sun:
 
-> One does not see in that noble disciple a single thing unsevered that could make him take birth back in this world.
+> It is like the sun rising, circling through the sky, breaking all darkness, its light shining clear. So it is when, for a noble disciple, all that is of the nature to arise has ceased: free of dust and stain, the eye of the Dhamma arises, and together with the breakthrough the three fetters are severed—identity-view, the grasping of rites, and doubt. With these three fetters exhausted, he is called a stream-enterer: not subject to falling to the lower destinies, certain of right awakening, bound for seven existences among gods and humans, making the end of suffering. Though grief and pain arise for that noble disciple in the meantime … one does not see in that noble disciple a single thing unsevered that could make him take birth back in this world. This is the great meaning of the noble disciple's gaining the eye of the Dhamma.
 
-Look closely at the sentence. It does not say "he is shielded." It says: search this noble disciple through, and no fetter can be found that is both unsevered and strong enough to pull him back into this world. The content of no-falling is a *lack*—the hook that could drag a person back is missing.
+The sun risen in the sky, all darkness broken—the Dhamma-eye arisen, the three fetters severed together. Now look closely at how the crucial sentence is worded. It does not say "he is shielded." It says: search this noble disciple through, and no fetter can be found that is both unsevered and strong enough to pull him back into this world. The content of no-falling is a *lack*—the hook that could drag a person back is missing.
 
 This is the very grammar of subtraction. For "regress" to happen, it needs an agent: a fetter still standing, strong enough to pull. And what stream-entry severs are precisely the fetters that govern direction—the jailers, as the last chapter said, whose office is to march the wall-climber back in. The jailers withdrawn, "marching back" is not forbidden; it has lost its executor. As a wall torn down does not rebuild itself—not because someone stands guard day and night forbidding it, but because the act of rebuilding no longer has anyone to set it in motion.
 
-It is worth noticing, then: when the āgama speaks of no regress, it uses a negative sentence, not a positive term like "irreversible." Later tradition grew used to saying "non-retrogression," and said often enough, the word makes it sound as if something extra had been added. The sutta's own words—"not a single thing unsevered that could make him return"—lie closer to the bone: no-regress was never a *more*; it is a *less*.
+The simile of the sunrise is exact at just this point: day does not break because someone holds a lamp over the sky; the darkness has simply lost its footing. It is worth noticing, then: when the āgama speaks of no regress, it uses a negative sentence, not a positive term like "irreversible." Later tradition grew used to saying "non-retrogression," and said often enough, the word makes it sound as if something extra had been added. The sutta's own words—"not a single thing unsevered that could make him return"—lie closer to the bone: no-regress was never a *more*; it is a *less*.
 
 ### Seven Returns: Not a Quota of Grace, but the Ripe Fruit Must Fall
 
@@ -46,7 +46,7 @@ No-falling and the seven returns look like two affairs: one guards the footing, 
 
 The source is single: a severed fetter does not arise again. Part One established it: what is severed is a cessation through discernment, unconditioned; the unconditioned knows no "severed, then grown back." Turn this one property in two directions. Looking down: the fetter that could drag one back into the counter-current is severed and cannot re-arise—therefore no falling. Looking ahead: a continuum whose direction is set must ripen, and ripen within limits—therefore seven returns and the end of suffering. The road back is sealed; the road ahead is settled. One property, two corollary faces.
 
-One can also say it so: the fruit is a still phase, and a stillness casts two shadows in time. Toward the past it casts a *seal*—no falling, the way back severed. Toward the future it casts a *settlement*—seven returns, the road ahead bounded. No-falling and the seven returns are one and the same stillness, shadowed at the two ends of time.
+One can also say it so: the fruit is a still phase, and a stillness casts two shadows in time. Toward the past it casts a *seal*—no falling, the way back severed. Toward the future it casts a *settlement*—seven returns, the road ahead bounded. No-falling and the seven returns are one and the same stillness, shadowed at the two ends of time. And the Deer Park's sunrise holds both faces in a single image: the sun once risen, the breaking of the darkness cannot be reversed—that is the seal; the sun once risen, its circuit through the sky has its own track and its own setting—that is the settlement.
 
 This is why they are not two separate certificates. Of two certificates, one can be genuine and one forged; corollaries cannot come apart—if the wall has truly come down, both conclusions stand together; if it has not, both fall together. Certainty is not given; it is entailed.
 

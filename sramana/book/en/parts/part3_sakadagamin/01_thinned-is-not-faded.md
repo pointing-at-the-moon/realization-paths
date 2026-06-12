@@ -1,6 +1,12 @@
 ## 3.1 Thinned Is Not Faded
 
-First, set the second fruit's definition back into its file. The Saṃyukta-āgama counts the sequence of the fruits:
+First, set the second fruit's definition back into a scene.
+
+The Saṃyukta-āgama records: the Buddha was keeping the rains retreat at Sāvatthī, in Jeta's Grove. The many elder disciples were settled around the World-Honored One, under trees and in caves; young monks kept arriving, and the elders took them into their care—one taking one, one taking two or three, some elders taking as many as sixty. The retreat ended; monks wandering the countryside heard and came, and there was another round of taking-in and instruction. On the fifteenth day, the uposatha, the World-Honored One spread His seat before the great assembly, looked over the monks, and began with praise: excellent, excellent—I rejoice in what you rightly do; the assemblies of past Buddhas were so, and the assemblies of future Buddhas will be so. And then He called the roll of the assembly before Him:
+
+> Among the elder monks of this assembly, there are those who have attained the first jhāna … There are monks in whom the three fetters are exhausted, who have attained stream-entry: not subject to falling to the lower destinies, definitely set toward right awakening, seven existences among gods and humans, making the end of suffering. There are monks in whom the three fetters are exhausted, and greed, hatred, and delusion attenuated, who have attained once-returning. There are monks in whom the five lower fetters are exhausted, who have attained non-returning: final nibbāna there, not born back into this world.
+
+A full-moon night, a seated assembly—and the World-Honored One counting it with the same ruler: who has severed the three fetters, in whom greed and hatred are thinned, whose five lower fetters are spent. "Sakadāgāmin" is not a cell in a commentator's table; it is several people actually sitting in that night's assembly. And at a sitting in the same connected series, teaching the great fruit of mindfulness of breathing, the World-Honored One set the sequence out even more squarely:
 
 > The three fetters exhausted: the fruit of stream-entry is obtained. The three fetters exhausted, and greed, hatred, and delusion attenuated: the fruit of once-returning is obtained. The five lower fetters exhausted: the fruit of non-returning is obtained.
 
@@ -56,6 +62,6 @@ Third, the "lower grade" of "only the lower grade remains" is not "too slight to
 
 ### The Ruler, Held
 
-Look back at the battle this chapter fought. The word "thinned" came on hard, as if to tear a degree-shaped gash in the ruler of subtraction. Walked into, it tore nothing; it ground the ruler's markings one level finer—from the fetter down to the grade. What is measured is still what is gone: six grades gone. Establishment still admits no seventy percent: each grade's extinction, all or nothing. And the image of the wall has held: not a half-fallen wall, but a wall of nine parts, six permanently down.
+Look back at the battle this chapter fought. The word "thinned" came on hard, as if to tear a degree-shaped gash in the ruler of subtraction. Walked into, it tore nothing; it ground the ruler's markings one level finer—from the fetter down to the grade. What is measured is still what is gone: six grades gone. Establishment still admits no seventy percent: each grade's extinction, all or nothing. And the image of the wall has held: not a half-fallen wall, but a wall of nine parts, six permanently down. The roll called on the uposatha night has held as well: when the World-Honored One counted the once-returners in that assembly, He was not counting whose mood had faded by some shade—He was counting severance.
 
 The three parts still standing are the last roots of the desire realm's greed and anger. The next station takes them out, roots and all—and that station's name is the non-returner.

@@ -8,4 +8,6 @@ The transition has already laid the difficulty bare: this book's ruler has measu
 
 So this chapter is a defense—of subtraction itself. And the defense is not to walk around the word "attenuated," but to walk straight into it and see its exact content. Seen clearly, it turns out that thinning is no exception to the subtraction; it is the subtraction's most refined stroke. The key hides in one overlooked structural fact: greed, hatred, and delusion are not a single slab.
 
+Before going in, a scene is waiting: the full-moon uposatha night of the rains retreat at Jeta's Grove, the World-Honored One seated before the great assembly, calling the roll of the noble ones in its midst—and the once-returners are sitting in that night's assembly.
+
 One chapter, one key. Go in.

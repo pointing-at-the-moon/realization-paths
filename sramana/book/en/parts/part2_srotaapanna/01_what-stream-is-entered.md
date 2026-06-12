@@ -6,7 +6,7 @@ The sutta's answer we have already met: stream-entry severs three fetters—iden
 
 Why?
 
-First, watch how the sutta describes the person in whom these three have fallen. The Saṃyukta-āgama says:
+First, watch how the sutta describes the person in whom these three have fallen. It is the same sitting at Jeta's Grove that taught from the five aggregates—the World-Honored One climbing rung by rung from the faith-follower and the Dhamma-follower up to the first fruit:
 
 > This is called the fruit of stream-entry: not falling to the lower destinies, definitely set toward right awakening, seven existences among gods and humans, and then the final end of suffering.
 
@@ -20,7 +20,11 @@ Identity-view is the view that takes this body-and-mind of five aggregates as "I
 
 Doubt is the root hesitation toward the Buddha, the Dharma, the Saṅgha, and this path. What it blocks is *whether one walks at all*. Doubt is not a blank in knowledge—what is not known can be learned; doubt is a gap in trust—uncertainty whether this road leads anywhere, whether it is worth walking. A person carrying that gap either does not set out, or looks back at every third step. He cannot enter the stream, because he does not believe there is a stream to enter.
 
-The grasping of rites and observances is the clutching of precepts, austerities, and rituals that have nothing to do with liberation, in the belief that they alone purify. What it blocks is *which road is walked*. The rite-grasper is not unwilling to walk—often he walks with tremendous effort; he walks wrong, taking a road that does not lead to liberation for the road that does, and the harder he strives, the further he strays.
+The grasping of rites and observances is the clutching of precepts, austerities, and rituals that have nothing to do with liberation, in the belief that they alone purify. What it blocks is *which road is walked*. The rite-grasper is not unwilling to walk—often he walks with tremendous effort; he walks wrong. What "wrong" looks like, the canon has painted ready-made. At Jeta's Grove the Buddha told the monks: the brahmins teach a counterfeit road—they instruct their disciples to bathe on the fifteenth day with sesame powder, put on new cloth, lie on ground smeared with cow dung, and then—
+
+> Rise early in the morning, take off your clothes and set them aside, and run naked toward the east; and even should the road bring a violent elephant, a wild horse, a mad bull, a rabid dog, thorns, thickets, pits, or deep water—go straight on and do not swerve; one who meets his death so is certain to be born in the Brahmā heaven.
+
+Naked, running east at dawn, straight into elephants and pits and deep water, swerving for nothing—and death on that road is promised a heaven. The effort could hardly be greater: a man stakes his life on it. The error could hardly be more complete: the harder he strives, the further from liberation he strays. Having said it, the World-Honored One set one sentence against it: "For my disciples I teach a level, even road … namely the noble eightfold path—right view through right concentration." That is the face of rite-grasping: not laziness about the road, but a dead-end road walked to the death.
 
 Who is walking; whether one walks; which road is walked. The three fetters are exactly the three checkpoints of *setting out rightly*: the subject must be true, the departure resolved, the road discerned. Until these three are passed, "how far along" is not even the question—one has not aimed, not moved, or not found the road. That is why they are one cluster, and why that cluster falls first: direction is the precondition of any journey.
 
@@ -40,23 +44,23 @@ This layer comes from the treasury; remember its station as you read. The sutta 
 
 If direction is the whole of this station, then the name "stream-entry" cannot be passed over lightly. Entered into—what stream, exactly?
 
-While the Buddha was dwelling at Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's park, He examined the Venerable Sāriputta on precisely this. The World-Honored One asked: that which is called the stream—what is the stream? Sāriputta answered:
+In the discourse immediately following the counterfeit road, in the same Jeta's Grove, the World-Honored One examined the Venerable Sāriputta on precisely this. He asked: that which is called the stream—what is the stream? Sāriputta answered:
 
 > The stream of which the World-Honored One speaks is the noble eightfold path.
 
 The World-Honored One asked again: the factors of stream-entry—the conditions by which one comes into this stream—what are they? Sāriputta answered: there are four—drawing near to good people, hearing the true Dharma, right attention within, and practice in accordance with the Dharma. A third time He asked: one who has entered the stream—how many things does he possess? Sāriputta answered: four—unshakable confidence in the Buddha, unshakable confidence in the Dharma, unshakable confidence in the Saṅgha, and the noble virtues fulfilled. Three questions, three answers; the World-Honored One sealed each one: it is as you have said.
 
-This exchange nails "stream-entry" down. The stream is no mystical current of states; the stream is the noble eightfold path—right view through right concentration, the path itself. To enter the stream is to enter the current of the right path. The on-ramps are four: drawing near the good, hearing the Dharma, attending rightly, walking accordingly. And one who has entered carries four marks: confidence in the Buddha, the Dharma, and the Saṅgha that no longer shakes, and the noble virtues fulfilled. Not one item is the depth of absorption; not one is the brightness of experience.
+This exchange nails "stream-entry" down. The stream is no mystical current of states; the stream is the noble eightfold path—right view through right concentration, the path itself. One sitting had just painted the counterfeit road of naked running; the next sitting fixed where the true stream lies: read together, one negative, one positive—a matched pair. To enter the stream is to enter the current of the right path. The on-ramps are four: drawing near the good, hearing the Dharma, attending rightly, walking accordingly. And one who has entered carries four marks: confidence in the Buddha, the Dharma, and the Saṅgha that no longer shakes, and the noble virtues fulfilled. Not one item is the depth of absorption; not one is the brightness of experience.
 
 ### With the Current, Not Without Waves
 
 The image of the stream is exact in one more place: it says the direction is settled, not that the water is calm.
 
-One who has entered the right current is carried by the water toward the lower reaches. He paddles fast or slow; the surface rises and falls; but the current does not reverse, and the river's mouth is settled. The sutta says this itself, describing the stream-enterer:
+One who has entered the right current is carried by the water toward the lower reaches. He paddles fast or slow; the surface rises and falls; but the current does not reverse, and the river's mouth is settled. The sutta says this itself. At the Deer Park—the place of the first turning of the wheel—in the run of discourses on the four noble truths, one sitting describes the stream-enterer:
 
 > Though grief and pain arise for that noble disciple in the meantime … one does not see in that noble disciple a single thing unsevered that could make him take birth back in this world.
 
-Though grief and pain arise in the meantime—the stream-enterer is not henceforth without sorrow. He still grieves, still suffers; the waves of greed and anger still cross his days. But search him through, and no fetter is found still standing that is strong enough to haul him back upstream. Grief is experience; it rises and falls. Direction is severance; it stands and does not move. The sutta keeps the two layers perfectly apart: the fruit lies not in experience free of sorrow, but in direction free of reversal.
+Though grief and pain arise in the meantime—the stream-enterer is not henceforth without sorrow. He still grieves, still suffers; the waves of greed and anger still cross his days. But search him through, and no fetter is found still standing that is strong enough to haul him back upstream. Grief is experience; it rises and falls. Direction is severance; it stands and does not move. The sutta keeps the two layers perfectly apart: the fruit lies not in experience free of sorrow, but in direction free of reversal. The full text of that sitting, the next chapter returns to read closely.
 
 ### Three Things to See Clearly Here
 
